@@ -1,6 +1,9 @@
 # Traffic-log-analysis
-# description:
+
 Extract and organize all information from access logs ( Nginx, Apache ) , to help solve problems and find DDoS attacks.
+
+# description:
+
 
 It's designed to retrieve information as quickly as possible even in light of scenarios where there could be large log files and resource usage limits (server under heavy load).
 
