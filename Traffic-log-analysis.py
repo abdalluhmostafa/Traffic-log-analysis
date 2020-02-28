@@ -33,7 +33,7 @@ class Col(object):
 
 class Title(object):
     line = u'●▬▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●'
-    traffic_analyser = u'▂▃▅▇█▓▒░۩۞۩ TRAFFIC ANALYSER ۩۞۩░▒▓█▇▅▃▂'
+    traffic_analyser = u'▂▃▅▇█▓▒░۩۞۩TRAFFIC LOG ANALYSIS ۩۞۩░▒▓█▇▅▃▂'
     log_info = u'▂▃▅▇█▓▒░۩۞۩ LOGS INFO ۩۞۩░▒▓█▇▅▃▂'
     log_result = u'▂▃▅▇█▓▒░۩۞۩ LOG RESULTS ۩۞۩░▒▓█▇▅▃▂'
     general_info = u'▂▃▅▇█▓▒░۩۞۩ GENERAL INFO ۩۞۩░▒▓█▇▅▃▂'
