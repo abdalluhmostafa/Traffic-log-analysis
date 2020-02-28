@@ -335,8 +335,6 @@ class CmdArgs(object):
                       --filter {25}
                                    filter requests by POST or GET
 
-                      Further documentation can be viewed in the Wiki -
-                      https://github.com/tahz7/traffic_analyser/wiki
 
                         '''.format(*lst_args_format)
 
@@ -1654,12 +1652,6 @@ def print_main_header():
     print 'Version: {0}'.format(Col.GREEN + 'v2.1' + Col.ENDC)
     print 'Last Updated: {0}'.format(Col.GREEN + '19/Feb/2017' +
                                      Col.ENDC)
-    print 'See changelog here: {0}'.format(
-        Col.GREEN + 'https://github.com/tahz7/traffic_analyser/'
-                    'blob/master/CHANGELOG.md' + Col.ENDC)
-    print 'Report bugs/issues to: {0}'.format(
-        Col.GREEN + 'https://github.com/tahz7/traffic_analyser' + Col.ENDC)
-    print
 
 
 class Counter(dict):
