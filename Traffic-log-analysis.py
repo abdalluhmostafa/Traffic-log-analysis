@@ -1650,8 +1650,6 @@ def print_main_header():
     print Title.traffic_analyser
     print
     print 'Version: {0}'.format(Col.GREEN + 'v2.1' + Col.ENDC)
-    print 'Last Updated: {0}'.format(Col.GREEN + '19/Feb/2017' +
-                                     Col.ENDC)
 
 
 class Counter(dict):
